@@ -1,4 +1,4 @@
-# 136584
+
 # Objective:
 This task is meant to introduce the student to the working basics of the Git Source Versioning
 Ecosystem. It will introduce (through practical) the working of the git tool, the online GitHub
